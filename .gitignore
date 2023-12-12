@@ -1,0 +1,20 @@
+# core wordpress files
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+
+# development and build files
+*.log
+
+# sql files
+*.sql
+C:\Users\adame\Local Sites\wordpress-portfolio\app\public\u198401833_3xWQR.sql
+
+# htaccess
+/.htaccess
+
+# license
+license.txt
+
+# readme
+readme.html
